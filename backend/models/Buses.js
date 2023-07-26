@@ -14,7 +14,7 @@ const BusSchema = new Schema({
     },
     startCity: {
         type: String
-    },
+    },           
     destination: {
         type: String
     },
